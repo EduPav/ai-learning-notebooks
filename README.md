@@ -1,21 +1,22 @@
-# AI Learning Notebooks
+# Notebooks de Aprendizaje de IA
 
-A collection of notebooks to learn Python and Artificial Intelligence.
+Una colección de notebooks para aprender sobre Inteligencia Artificial.
 
-## Open in Colab
+## Abrir en Colab
 
 | Lección | Link |
 |---------|------|
-| 01 - Python Basics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EduPav/ai-learning-notebooks/blob/main/lessons/01-python-basics/notebook.ipynb) |
-| 02 - Clasificación vs Regresión | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EduPav/ai-learning-notebooks/blob/main/lessons/02-classification-regression/notebook.ipynb) |
-| 03 - Métricas de evaluación | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EduPav/ai-learning-notebooks/blob/main/lessons/03-evaluation-metrics/notebook.ipynb) |
+| 01 - Fundamentos de Python | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EduPav/ai-learning-notebooks/blob/main/lecciones/01-fundamentos-python/notebook.ipynb) |
+| 02 - Clasificación vs Regresión | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EduPav/ai-learning-notebooks/blob/main/lecciones/02-clasificacion-regresion/notebook.ipynb) |
+| 03 - Métricas de evaluación | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EduPav/ai-learning-notebooks/blob/main/lecciones/03-metricas-evaluacion/notebook.ipynb) |
+| 04 - Clasificación supervisada end-to-end | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EduPav/ai-learning-notebooks/blob/main/lecciones/04-clasificacion-supervisada-end-to-end/notebook.ipynb) |
 
-## Author
+## Autor
 
-Created by Eduardo Martin Pavez Fabriani
+Creado por Eduardo Martin Pavez Fabriani
 
 [Linkedin](https://www.linkedin.com/in/eduardo-pavez/)
 
-## License
+## Licencia
 
-MIT License
+Licencia MIT
