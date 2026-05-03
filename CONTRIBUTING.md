@@ -17,9 +17,10 @@
 
 ## Convenciones del curso
 
-Antes de contribuir, revisá [CLAUDE.md](CLAUDE.md) para entender las reglas de diseño. Las más importantes:
+Las reglas de diseño más importantes:
 
 - **Todo el contenido está en español.** Los términos técnicos que se usan habitualmente en inglés (como *machine learning* o *accuracy*) se dejan en inglés.
 - **La audiencia puede no saber programar.** Los ejemplos deben ser claros antes que ingeniosos.
 - **Cada concepto nuevo va seguido de un mini-ejercicio** con un bloque de salida esperada para que el estudiante pueda verificar su resultado.
+- **Cada sección se cierra con 2 ejercicios integradores**
 - **Si agregás una lección nueva**, agregá también la fila correspondiente con el badge de Colab en `README.md`.
