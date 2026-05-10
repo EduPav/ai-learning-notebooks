@@ -14,7 +14,7 @@ Una colección de notebooks para aprender sobre Inteligencia Artificial.
 
 ## Autor
 
-Creado por Eduardo Martin Pavez Fabriani
+Creado por Eduardo Martin Pavéz Fabriani
 
 [Linkedin](https://www.linkedin.com/in/eduardo-pavez/)
 
